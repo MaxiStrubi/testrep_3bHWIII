@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+public class Person{
+	private int _personId;
+}
+=======
+public class Person{
+    private int personId;
+    priavte String _firstname
+    
+}
+>>>>>>> 2be9f4186a7e1d57aeb4a21874f230b4ebcbe1a9
